@@ -1,0 +1,7 @@
+version: 1.0.0
+author: Maksym Dolgykh
+description: s3-clone-bucket is a tool that allows coping objects from one AWS S3 bucket to another including all object's versions
+repository: https://github.com/MaksymDolgykh/s3-clone-bucket
+google_site_verification: O4U1_nz2en_ImlO-GKIKxGofqKJ9u2us99PohiCouwY
+plugins:
+  - jekyll-sitemap
